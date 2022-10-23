@@ -2,7 +2,7 @@
 
 ***
 
-Learning to code with Scrimba has led me to discover my passion for responsive web design. For the past few months, I've learned and coded several projects with ReactJS and TailwindCSS. I'm excited about learning new things and contributing to meaningful projects. [Check out my portfolio](https://naomi-pham.netlify.app). 
+Learning to code with Scrimba has led me to discover my passion for responsive web design. For the past few months, I've learned and coded several projects with ReactJS and TailwindCSS. I'm excited about learning new things and contributing to meaningful projects.
 
 ### Quick facts
 
