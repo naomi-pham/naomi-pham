@@ -10,13 +10,17 @@ I’m a front-end developer from Vietnam. My coding journey began early this yea
 - 👯 I’m looking to collaborate on React & TailwindCSS projects. 
 - 🤔 I’m looking for help with React and NextJS.
 
-
 ## Languages & Tools
 - HTML/CSS
 - JavaScript
 - ReactJS
-- Tailwind
 - NextJS
+- Tailwind
+- Headless CMS
+
+## Recent works
+- [Travel Logs](https://github.com/naomi-pham/my-travel-logs)
+- [World Recipes](https://github.com/naomi-pham/world-cuisines)
 
 ## My stats on Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naomi-pham&show_icons=true&theme=dark)](https://github.com/naomi-pham/github-readme-stats)
@@ -25,12 +29,6 @@ I’m a front-end developer from Vietnam. My coding journey began early this yea
 Feel free to contact me on any of these channels: 
 
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin)](https://www.linkedin.com/in/naomi-pham/)  [![TWITTER](https://img.shields.io/badge/-TWITTER-green?logo=twitter)](https://twitter.com/naomipham_) [![email](https://img.shields.io/badge/-EMAIL-yellowgreen?logo=gmail)](mailto:phambaonguyendn@gmail.com)  
-
----
-
-## Recent works
-- [Travel Logs](https://github.com/naomi-pham/my-travel-logs)
-- [World Recipes](https://github.com/naomi-pham/world-cuisines)
 
 ## My writings
 - [Light/Dark Mode in React with Tailwind styling](https://dev.to/naomipham_/how-to-create-darklight-mode-with-react-and-tailwind-59e0)
