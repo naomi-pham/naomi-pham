@@ -27,7 +27,7 @@ Learning to code with Scrimba has led me to discover my passion for responsive w
 
 Feel free to contact me on any of these channels: 
 
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin)](https://naomi-pham.netlify.app/)  [![TWITTER](https://img.shields.io/badge/-TWITTER-green?logo=twitter)](https://twitter.com/naomipham_) [![email](https://img.shields.io/badge/-EMAIL-yellowgreen?logo=gmail)](mailto:phambaonguyendn@gmail.com)  
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin)](https://www.linkedin.com/in/naomi-pham/)  [![TWITTER](https://img.shields.io/badge/-TWITTER-green?logo=twitter)](https://twitter.com/naomipham_) [![email](https://img.shields.io/badge/-EMAIL-yellowgreen?logo=gmail)](mailto:phambaonguyendn@gmail.com)  
 
 ***
 
