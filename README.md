@@ -21,6 +21,7 @@ I’m a front-end developer from Vietnam. My coding journey began early this yea
 ## Recent works
 - [Travel Logs](https://github.com/naomi-pham/my-travel-logs)
 - [World Recipes](https://github.com/naomi-pham/world-cuisines)
+- [Responsive Portfolio](https://naomi-pham.netlify.app/)
 
 ## My stats on Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naomi-pham&show_icons=true&theme=dark)](https://github.com/naomi-pham/github-readme-stats)
